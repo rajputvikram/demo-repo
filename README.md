@@ -1,8 +1,6 @@
 # DEMO 
 
-Some description!
+Some description
 
-## Subheader
 
-Practise git 2 hours daily
-hey 
+"HEY"
